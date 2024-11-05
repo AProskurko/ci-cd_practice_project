@@ -1,0 +1,17 @@
+{
+  "name": "developstoday",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Artem Proskurko",
+  "license": "ISC",
+  "description": "Test task for DevelopsToday",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.6"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
